@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Bella Cosa SRLS
 
-You can use the [editor on GitHub](https://github.com/pglombardo/bellacosaco/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://disznc.s3.amazonaws.com/bc-logo-transparent.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are an Italian based organization that focuses on globally sourcing unique, beautiful and innovative products to bring to the masses.  We do this through our network of children brands, the first of which is Old School Shopping.
 
-### Markdown
+### Old School Shopping
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](https://disznc.s3.amazonaws.com/oldschool-square-transparent.png)
 
-```markdown
-Syntax highlighted code block
+Old School features the highest quality historically inspired products that best reflect the strength, culture and wisdom of the past.
 
-# Header 1
-## Header 2
-### Header 3
+[https://oldschool.shopping](https://oldschool.shopping)
 
-- Bulleted
-- List
+### Social & Contact
 
-1. Numbered
-2. List
+Contact us at team@bellacosa.shopping
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pglombardo/bellacosaco/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://www.instagram.com/oldschool.shopping/
+https://twitter.com/o_s_shopping
+https://www.pinterest.com/oldschoolshopping/
+https://www.facebook.com/oldschoolshopping
+https://www.youtube.com/channel/UCIZZ5raxBvgpgsiy7Dl99bg
