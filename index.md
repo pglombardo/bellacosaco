@@ -1,4 +1,4 @@
-## Bella Cosa SRLS
+## Bella Cosa, SRLS
 
 ![](https://disznc.s3.amazonaws.com/bc-logo-transparent.png)
 
@@ -17,7 +17,12 @@ Old School features the highest quality historically inspired products that best
 Contact us at team@bellacosa.shopping
 
 https://www.instagram.com/oldschool.shopping/
+
 https://twitter.com/o_s_shopping
+
 https://www.pinterest.com/oldschoolshopping/
+
 https://www.facebook.com/oldschoolshopping
+
 https://www.youtube.com/channel/UCIZZ5raxBvgpgsiy7Dl99bg
+
