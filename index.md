@@ -1,4 +1,6 @@
-## ![](https://disznc.s3.amazonaws.com/bc-logo-transparent.png)
+# Bella Cosa, SRLS
+
+![](https://disznc.s3.amazonaws.com/bc-logo-transparent.png)
 
 We are an Italian based organization that focuses on globally sourcing unique, beautiful and innovative products to bring to the masses.  We do this through our network of children brands, the first of which is Old School Shopping.
 
